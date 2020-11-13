@@ -14,5 +14,8 @@
     "extends": [
       "@commitlint/config-conventional"
     ]
+  },
+  "publishConfig": {
+    "registry": "http://localhost:4873"
   }
 }
