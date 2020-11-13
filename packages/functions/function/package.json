@@ -1,9 +1,9 @@
 {
   "name": "@sample/function",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
-    "@sample/domain": "^1.0.0",
-    "@sample/infrastructure": "^1.0.0"
+    "@sample/domain": "^1.0.1",
+    "@sample/infrastructure": "^1.0.1"
   },
   "publishConfig": {
     "registry": "http://localhost:4873"
