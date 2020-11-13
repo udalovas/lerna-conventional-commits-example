@@ -1,2 +1,2 @@
 // comment
-module.exports = 'infrastructure';
+module.exports = 'Hello from infrastructure';
