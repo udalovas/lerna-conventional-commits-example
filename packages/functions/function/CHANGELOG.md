@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.1](https://github.com/udalovas/lerna-conventional-commits-example/compare/@sample/function@1.0.1...@sample/function@1.0.1) (2020-11-13)
+
+
+### Bug Fixes
+
+* versions ([4b1e6c4](https://github.com/udalovas/lerna-conventional-commits-example/commit/4b1e6c4f99854a7b98bd1e8194d4092112105cf2))
+
+
+
+
+
 ## [1.0.1](https://github.com/udalovas/lerna-conventional-commits-example/compare/@sample/function@1.0.0...@sample/function@1.0.1) (2020-11-13)
 
 

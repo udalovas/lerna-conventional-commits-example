@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.1](https://github.com/udalovas/lerna-conventional-commits-example/compare/@sample/infrastructure@1.0.1...@sample/infrastructure@1.0.1) (2020-11-13)
+
+
+### Bug Fixes
+
+* versions ([4b1e6c4](https://github.com/udalovas/lerna-conventional-commits-example/commit/4b1e6c4f99854a7b98bd1e8194d4092112105cf2))
+
+
+### Features
+
+* hello from infrastructure ([105763e](https://github.com/udalovas/lerna-conventional-commits-example/commit/105763e459552de7df9e4b141143d11dcd2c63c5))
+
+
+
+
+
 ## [1.0.1](https://github.com/udalovas/lerna-conventional-commits-example/compare/@sample/infrastructure@1.0.0...@sample/infrastructure@1.0.1) (2020-11-13)
 
 
