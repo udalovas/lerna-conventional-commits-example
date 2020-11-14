@@ -2,7 +2,7 @@
   "name": "@sample/function",
   "version": "1.2.1",
   "dependencies": {
-    "@sample/domain": "^1.2.1",
+    "@sample/domain": "1.2.1",
     "@sample/infrastructure": "^1.2.0"
   },
   "publishConfig": {
