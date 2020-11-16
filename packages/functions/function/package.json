@@ -1,8 +1,8 @@
 {
   "name": "@sample/function",
-  "version": "1.3.2",
+  "version": "1.3.3",
   "dependencies": {
-    "@sample/domain": "^1.3.1",
+    "@sample/domain": "^1.3.2",
     "@sample/infrastructure": "^1.2.0"
   },
   "publishConfig": {
