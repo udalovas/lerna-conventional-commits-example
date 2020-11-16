@@ -1,6 +1,6 @@
 {
   "name": "@sample/function",
-  "version": "1.3.3",
+  "version": "1.3.4",
   "dependencies": {
     "@sample/domain": "^1.3.2",
     "@sample/infrastructure": "^1.2.0"
