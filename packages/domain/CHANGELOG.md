@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.4.0](https://github.com/udalovas/lerna-conventional-commits-example/compare/@sample/domain@1.3.2...@sample/domain@1.4.0) (2020-11-22)
+
+
+### Features
+
+* hello for Pioneers ([ac63d5e](https://github.com/udalovas/lerna-conventional-commits-example/commit/ac63d5e9d2a9fdf7050ca2a6d573cc3135e5115e))
+
+
+
+
+
 ## [1.3.2](https://github.com/udalovas/lerna-conventional-commits-example/compare/@sample/domain@1.3.1...@sample/domain@1.3.2) (2020-11-16)
 
 
