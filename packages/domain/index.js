@@ -1,2 +1,2 @@
 // comment
-module.exports = 'Hello Pioneers from domain...';
+module.exports = 'Hello Pioneers from domain.';
